@@ -1,0 +1,23 @@
+{
+  "source": "https://www.bundeshaushalt.de",
+  "api": "https://www.bundeshaushalt.de/internalapi/",
+  "download_portal": "https://www.bundeshaushalt.de/DE/Download-Portal/download-portal.html",
+  "downloaded_on": "2026-11-02",
+  "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "rows": 152772
+}

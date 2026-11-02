@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://www.bundeshaushalt.de",
+    "download_portal": "https://www.bundeshaushalt.de/DE/Download-Portal/download-portal.html",
+    "downloaded_on": "2026-11-02",
+    "years": "2012-2025",
+    "nodes": 152772,
+    "budget_lines_latest_year": 4965
+  },
+  "year": 2025,
+  "latest": {
+    "plan_bn": 502.546135,
+    "actual_bn": 495.53672600053,
+    "net_variance_bn": -7.009408999470045,
+    "net_variance_pct": -1.39477920757863,
+    "gross_line_deviation_bn": 50.78334163182999,
+    "planned_lines_variance_bn": -17.430106604709994,
+    "planned_vs_net_multiple": 2.4866727859692337,
+    "ministries": 26,
+    "ministries_under_10pct": 4,
+    "ministries_under_10pct_bn": -0.028846690330000008,
+    "large_ministries_under_10pct": 0,
+    "ministries_over_plan": 9,
+    "material_lines": 55,
+    "material_lines_bn": -17.53499774177,
+    "lines_total": 4965,
+    "top20_share_of_gross": 0.45110578310745303,
+    "gross_ministry_deviation_bn": 10.515266369810128,
+    "largest_under": {
+      "label": "General Financial Administration",
+      "bn": -3.542526248689995,
+      "pct": -7.576357944768845
+    },
+    "second_under": {
+      "label": "Defence",
+      "bn": -2.8481114966600036,
+      "pct": -4.5710777926859905
+    },
+    "largest_over": {
+      "label": "Interior",
+      "bn": 0.5771168322800141,
+      "pct": 3.786465282452584
+    },
+    "top2_ministries_share_of_net": 0.9117227637641305,
+    "buckets": {
+      "planned_and_booked": {
+        "lines": 4199,
+        "variance_bn": -11.971393183199996
+      },
+      "planned_not_booked": {
+        "lines": 213,
+        "variance_bn": -5.471229
+      },
+      "renumbered": {
+        "lines": 131,
+        "variance_bn": 0.012515578490000049
+      },
+      "savings_target": {
+        "lines": 26,
+        "variance_bn": 6.766147
+      },
+      "unplanned": {
+        "lines": 396,
+        "variance_bn": 3.65455060524
+      }
+    },
+    "largest_line": {
+      "label": "Globale Minderausgabe",
+      "ep": "General Financial Administration",
+      "bn": 4.0
+    },
+    "income_plan_bn": 502.546135,
+    "income_variance_bn": -7.009408999470153,
+    "income_largest_shortfall": {
+      "label": "Federal Debt",
+      "bn": -14.37625004237001,
+      "pct": -17.126267371920044
+    }
+  },
+  "history": {
+    "years_under_plan": 9,
+    "years": 14,
+    "crisis_2020_variance_bn": -65.0977839485,
+    "crisis_2020_pct": -12.801174940975626,
+    "avg_net_pct_ex_crisis": -0.08429653225402414,
+    "median_gross_to_net": 3.0015995061003724
+  },
+  "forecast": {
+    "test_years": "2015-2025",
+    "n_test_years": 11,
+    "wape_all": {
+      "plan": 5.890161117329722,
+      "ratio_shrunk_3": 6.6574746576278185,
+      "ratio_mean_3": 8.164264872953193,
+      "ratio_median_3": 8.28978802691222,
+      "ratio_mean_5": 8.545263084025155,
+      "last_actual": 14.023748646653644
+    },
+    "wape_calm": {
+      "ratio_shrunk_3": 4.0878130197486575,
+      "plan": 4.356278117933988,
+      "ratio_mean_3": 4.596661928234,
+      "ratio_median_3": 4.732929255754854,
+      "ratio_mean_5": 5.35681943736601,
+      "last_actual": 9.795872519904643
+    },
+    "total_abs_error_all": {
+      "plan": 2.443580514670484,
+      "ratio_shrunk_3": 3.2517362710445594,
+      "ratio_mean_3": 4.341196004822883,
+      "ratio_median_3": 4.783470088589292,
+      "ratio_mean_5": 4.614555285269837,
+      "last_actual": 8.005245440548196
+    },
+    "total_abs_error_calm": {
+      "ratio_shrunk_3": 0.992234311360577,
+      "plan": 0.8091842806605292,
+      "ratio_mean_3": 1.5620773109914692,
+      "ratio_median_3": 1.486094114054894,
+      "ratio_mean_5": 1.7077065081483398,
+      "last_actual": 3.9220674631976733
+    },
+    "best_all": "plan",
+    "best_calm": "ratio_shrunk_3",
+    "plan_wape_last": 2.1197433689381144,
+    "plan_total_error_last": 1.4122564351222426,
+    "crisis_years": [
+      2020,
+      2021,
+      2022
+    ],
+    "outlook_year": 2026,
+    "outlook_plan_bn": 524.540138,
+    "outlook_low_bn": 517.2354471134076,
+    "outlook_high_bn": 532.7713135449739,
+    "outlook_err_lo_pct": -1.544973487818811,
+    "outlook_err_hi_pct": 1.4122564351222426,
+    "outlook_shrunk_bn": 521.1508615328459
+  },
+  "checks": {
+    "passed": 8,
+    "total": 8,
+    "negative_expense_share_actual_max_pct": 2.667538898867545
+  }
+}

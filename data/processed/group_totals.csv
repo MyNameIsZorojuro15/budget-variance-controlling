@@ -1,0 +1,281 @@
+year,quota,account,group_id,label,value
+2012,actual,expenses,G-4,4 Personalausgaben,28046146228.8
+2012,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",52178931816.24
+2012,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,190226226782.85
+2012,actual,expenses,G-7,7 Baumaßnahmen,6147257027.91
+2012,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,30176606825.17
+2012,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,340814020.83
+2012,target,expenses,G-4,4 Personalausgaben,28496629000.0
+2012,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",53300940000.0
+2012,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,192575837000.0
+2012,target,expenses,G-7,7 Baumaßnahmen,6519384000.0
+2012,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,30949781000.0
+2012,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-242571000.0
+2013,actual,expenses,G-4,4 Personalausgaben,28575385421.06
+2013,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",52427775232.58
+2013,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,193362503449.6
+2013,actual,expenses,G-7,7 Baumaßnahmen,6263793639.83
+2013,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,27213454322.17
+2013,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,358445765.51
+2013,target,expenses,G-4,4 Personalausgaben,28478392000.0
+2013,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",54399344000.0
+2013,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,192720957000.0
+2013,target,expenses,G-7,7 Baumaßnahmen,6702784000.0
+2013,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,28100768000.0
+2013,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-402245000.0
+2014,actual,expenses,G-4,4 Personalausgaben,29208793675.1
+2014,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",47161485741.69
+2014,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,189839944194.56
+2014,actual,expenses,G-7,7 Baumaßnahmen,6419297071.33
+2014,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,22856105926.07
+2014,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,386847012.72
+2014,target,expenses,G-4,4 Personalausgaben,28906566000.0
+2014,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",50066953000.0
+2014,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,189570000000.0
+2014,target,expenses,G-7,7 Baumaßnahmen,6272672000.0
+2014,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,23580354000.0
+2014,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-1896545000.0
+2015,actual,expenses,G-4,4 Personalausgaben,29906927762.8
+2015,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",43178464972.66
+2015,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,196646259200.18
+2015,actual,expenses,G-7,7 Baumaßnahmen,6141485005.53
+2015,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,23411969669.98
+2015,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,12430821840.74
+2015,target,expenses,G-4,4 Personalausgaben,29995918000.0
+2015,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",43708483000.0
+2015,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,198633728000.0
+2015,target,expenses,G-7,7 Baumaßnahmen,6132355000.0
+2015,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,23748114000.0
+2015,target,expenses,G-9,9 Besondere Finanzierungsausgaben,4681402000.0
+2016,actual,expenses,G-4,4 Personalausgaben,30664836399.18
+2016,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",41254903113.74
+2016,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,205478547935.33
+2016,actual,expenses,G-7,7 Baumaßnahmen,6845546480.38
+2016,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,26337338733.75
+2016,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,6863651231.56
+2016,target,expenses,G-4,4 Personalausgaben,30989204000.0
+2016,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",44157644000.0
+2016,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,207357218000.0
+2016,target,expenses,G-7,7 Baumaßnahmen,7136647000.0
+2016,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,27847639000.0
+2016,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-588352000.0
+2017,actual,expenses,G-4,4 Personalausgaben,31824495474.38
+2017,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",43500804761.04
+2017,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,216041709562.08
+2017,actual,expenses,G-7,7 Baumaßnahmen,7631363811.24
+2017,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,26382079082.75
+2017,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,5658538703.13
+2017,target,expenses,G-4,4 Personalausgaben,31988280000.0
+2017,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",44885130000.0
+2017,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,219095354000.0
+2017,target,expenses,G-7,7 Baumaßnahmen,7532794000.0
+2017,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,28538493000.0
+2017,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-2940051000.0
+2018,actual,expenses,G-4,4 Personalausgaben,32718045321.52
+2018,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",43845447207.24
+2018,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,222049945523.58
+2018,actual,expenses,G-7,7 Baumaßnahmen,7903289711.11
+2018,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,30193717541.4
+2018,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,11582402205.69
+2018,target,expenses,G-4,4 Personalausgaben,33397392000.0
+2018,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",46079612000.0
+2018,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,225006176000.0
+2018,target,expenses,G-7,7 Baumaßnahmen,7741707000.0
+2018,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,32060806000.0
+2018,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-685693000.0
+2019,actual,expenses,G-4,4 Personalausgaben,34184881330.89
+2019,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",42579129566.94
+2019,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,228356109031.67
+2019,actual,expenses,G-7,7 Baumaßnahmen,8094986167.27
+2019,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,29970701684.41
+2019,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,13935613824.68
+2019,target,expenses,G-4,4 Personalausgaben,34645685000.0
+2019,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",50059081000.0
+2019,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,233909397000.0
+2019,target,expenses,G-7,7 Baumaßnahmen,8086439000.0
+2019,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,30859694000.0
+2019,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-1160296000.0
+2020,actual,expenses,G-4,4 Personalausgaben,35409084310.17
+2020,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",40358680424.37
+2020,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,315681916643.48
+2020,actual,expenses,G-7,7 Baumaßnahmen,8191964588.64
+2020,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,42156115653.28
+2020,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,1634212431.56
+2020,target,expenses,G-4,4 Personalausgaben,35412706000.0
+2020,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",45345150000.0
+2020,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,358829219000.0
+2020,target,expenses,G-7,7 Baumaßnahmen,8904327000.0
+2020,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,62381996000.0
+2020,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-2343640000.0
+2021,actual,expenses,G-4,4 Personalausgaben,36497931936.92
+2021,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",39274789958.21
+2021,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,435062628746.08
+2021,actual,expenses,G-7,7 Baumaßnahmen,3920399663.43
+2021,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,41861720898.77
+2021,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,475574993.65
+2021,target,expenses,G-4,4 Personalausgaben,35960392000.0
+2021,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",48655420000.0
+2021,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,436575681000.0
+2021,target,expenses,G-7,7 Baumaßnahmen,4553945000.0
+2021,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,54713629000.0
+2021,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-7733353000.0
+2022,actual,expenses,G-4,4 Personalausgaben,37842693056.7
+2022,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",55257148878.0
+2022,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,341377255698.92
+2022,actual,expenses,G-7,7 Baumaßnahmen,4053407143.7
+2022,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,42157106190.84
+2022,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,616700067.73
+2022,target,expenses,G-4,4 Personalausgaben,37398701000.0
+2022,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",59138002000.0
+2022,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,354235278000.0
+2022,target,expenses,G-7,7 Baumaßnahmen,4460636000.0
+2022,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,47079869000.0
+2022,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-6521011000.0
+2023,actual,expenses,G-4,4 Personalausgaben,40119382716.73
+2023,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",77676316108.78
+2023,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,284371652850.63
+2023,actual,expenses,G-7,7 Baumaßnahmen,4134632557.15
+2023,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,50826827875.4
+2023,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,534582744.72
+2023,target,expenses,G-4,4 Personalausgaben,41669192000.0
+2023,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",78698932000.0
+2023,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,291621430000.0
+2023,target,expenses,G-7,7 Baumaßnahmen,5311396000.0
+2023,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,55813357000.0
+2023,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-11902525000.0
+2024,actual,expenses,G-4,4 Personalausgaben,42440586296.38
+2024,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",80688495044.45
+2024,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,294375947849.78
+2024,actual,expenses,G-7,7 Baumaßnahmen,4419501632.23
+2024,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,52238900222.89
+2024,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,590296563.85
+2024,target,expenses,G-4,4 Personalausgaben,44971231000.0
+2024,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",76989707000.0
+2024,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,294893063000.0
+2024,target,expenses,G-7,7 Baumaßnahmen,3971271000.0
+2024,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,66550792000.0
+2024,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-10568408000.0
+2025,actual,expenses,G-4,4 Personalausgaben,44646624745.26
+2025,actual,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",75831422049.87
+2025,actual,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,319032831020.92
+2025,actual,expenses,G-7,7 Baumaßnahmen,4503284045.37
+2025,actual,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,50920779655.1
+2025,actual,expenses,G-9,9 Besondere Finanzierungsausgaben,601784484.01
+2025,target,expenses,G-4,4 Personalausgaben,45157071000.0
+2025,target,expenses,G-5,"5 Sächliche Verwaltungsausgaben, militärische Beschaffungen usw., Ausgaben für den Schuldendienst",78181037000.0
+2025,target,expenses,G-6,6 Ausgaben für Zuweisungen und Zuschüsse mit Ausnahme für Investitionen,322448509000.0
+2025,target,expenses,G-7,7 Baumaßnahmen,6514175000.0
+2025,target,expenses,G-8,8 Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen,56217586000.0
+2025,target,expenses,G-9,9 Besondere Finanzierungsausgaben,-5972243000.0
+2012,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,256378820972.68
+2012,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",18242363375.58
+2012,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,9198020180.16
+2012,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",23296778173.38
+2012,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,256519000000.0
+2012,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",18720901000.0
+2012,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,7976739000.0
+2012,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",28383360000.0
+2013,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,260082875931.47
+2013,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",19746316919.9
+2013,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5602799388.28
+2013,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",22769365591.1
+2013,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,260921000000.0
+2013,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",19741747000.0
+2013,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,3959793000.0
+2013,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",25377460000.0
+2014,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,271071012141.75
+2014,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",18848767714.11
+2014,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5191435425.85
+2014,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",761258339.76
+2014,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,268415000000.0
+2014,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",17705271000.0
+2014,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5197774000.0
+2014,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",5181955000.0
+2015,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,282059141568.46
+2015,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",23587783020.38
+2015,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5422093399.09
+2015,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",646910463.96
+2015,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,280347500000.0
+2015,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",21406451000.0
+2015,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,4904094000.0
+2015,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",241955000.0
+2016,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,289290245393.64
+2016,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",20663324886.8
+2016,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,6902784200.92
+2016,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",588469412.58
+2016,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,288367600000.0
+2016,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",16474191000.0
+2016,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5726159000.0
+2016,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",6332050000.0
+2017,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,309645751065.44
+2017,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",15309273286.54
+2017,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5435519162.08
+2017,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",648447880.56
+2017,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,301344400000.0
+2017,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",16467188000.0
+2017,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,4289517000.0
+2017,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",6998895000.0
+2018,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,322716678163.47
+2018,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",18617178485.54
+2018,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,6303108011.01
+2018,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",655882850.52
+2018,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,321599000000.0
+2018,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",16554136000.0
+2018,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,4697390000.0
+2018,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",749474000.0
+2019,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,329230868759.89
+2019,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",21150448317.2
+2019,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5770692169.98
+2019,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",969412358.79
+2019,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,325793000000.0
+2019,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",20113377000.0
+2019,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,4485072000.0
+2019,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",6008551000.0
+2020,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,283503563085.86
+2020,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",21536328037.37
+2020,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,5619780537.42
+2020,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",132772302390.85
+2020,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,264778000000.0
+2020,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",20747126000.0
+2020,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,4400540000.0
+2020,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",218604092000.0
+2021,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,313766472105.12
+2021,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",19247316366.34
+2021,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,7551991395.79
+2021,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",216527266329.81
+2021,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,284260000000.0
+2021,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",18778724000.0
+2021,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,6702477000.0
+2021,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",262984513000.0
+2022,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,337265485910.0
+2022,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",20440936298.83
+2022,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,6229693461.84
+2022,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",117368195365.22
+2022,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,328598000000.0
+2022,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",19360179000.0
+2022,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,8655492000.0
+2022,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",139177804000.0
+2023,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,356263057689.67
+2023,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",25059748304.81
+2023,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,10267851425.85
+2023,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",66072737433.08
+2023,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,356571000000.0
+2023,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",22195289000.0
+2023,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,15362362000.0
+2023,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",67083131000.0
+2024,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,375189926544.81
+2024,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",41065734309.93
+2024,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,23573057767.81
+2024,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",34925008987.03
+2024,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,377774000000.0
+2024,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",29058559000.0
+2024,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,21857082000.0
+2024,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",48118015000.0
+2025,actual,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,388683536965.36
+2025,actual,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",31553567313.49
+2025,actual,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,6432504305.5
+2025,actual,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",68867117416.18
+2025,target,income,G-0,0 Einnahmen aus Steuern und steuerähnlichen Abgaben sowie EU-Eigenmittel,386962000000.0
+2025,target,income,G-1,"1 Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.",29847175000.0
+2025,target,income,G-2,2 Einnahmen aus Zuweisungen und Zuschüssen mit Ausnahme für Investitionen,4693843000.0
+2025,target,income,G-3,"3 Einnahmen aus Schuldenaufnahmen, aus Zuweisungen und Zuschüssen für Investitionen, besondere Finanzierungseinnahmen",81043117000.0
